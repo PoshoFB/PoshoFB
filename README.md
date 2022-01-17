@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoshoFB
 - 👀 I’m interested in Build Smart Contracts
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Javascript and Node.Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
